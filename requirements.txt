@@ -1,0 +1,8 @@
+ultralytics
+facenet-pytorch
+torch
+torchvision
+scikit-learn
+pandas
+albumentations
+opencv-python-headless
