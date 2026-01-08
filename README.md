@@ -2,25 +2,25 @@
 
 This project demonstrates a modular ML pipeline combining **YOLOv8** for face detection and **FaceNet** embeddings for face analysis (mask/cap classification).
 
-## 📁 Structure
+## Structure
 
 - `yolotask/`: Core module
 - `main.py`: Entry point
 - `data/`: Place your dataset here
 
-## 🚀 Setup
+## Setup
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## 🧠 Run
+## Run
 
 ```bash
 python main.py
 ```
 
-## 📦 Requirements
+## Requirements
 
 - YOLOv8 (via `ultralytics`)
 - FaceNet (via `facenet-pytorch`)
